@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👩‍💻 I'm passionate about **Blockchain technology** and building in **Web3**.
 - 🌱 Currently diving deep into **Dapps** and **smart contract development**.
-- 💬  I’m looking to work on blockchain projects 
+- 💬  I’m looking to work on blockchain technology 
 - 💡 Always curious to explore new ideas and technologies.
 - 📫 Reach me at: **janhavisonurkar00@gmail.com**
 
