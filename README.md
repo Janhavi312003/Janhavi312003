@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🧱 Blockchain: `Ethereum`, `Hardhat`, `Remix`, `Metamask`
 - 🌐 Web: `React.js`, `Next.js`, `Svelte`, `TailwindCSS`
 - 🔗 Web3: `Ethers.js`, `Web3.js`, `IPFS`, `Thirdweb`
-- 💾 Database: `MongoDB`, `Prisma`
+- 💾 Database: `MongoDB`, `Prisma`, `Sql`, `PostgressSql`
 
 ---
 
