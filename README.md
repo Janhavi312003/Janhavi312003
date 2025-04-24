@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 - 💾 Database: `MongoDB`, `Prisma`, `Sql`, `PostgressSql`
 
 ---
+### ✏️ Tools
+- 🎨 Figma
+- 📊 Jira
+- 💻 Git
+---
 
 ### 🌍 Let's Connect
 
