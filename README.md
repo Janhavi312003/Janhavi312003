@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 💼 Tech Stack
 
-- ⚙️ Languages: `Solidity`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+- ⚙️ Languages: `Solidity`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `C++`
 - 🧱 Blockchain: `Ethereum`, `Hardhat`, `Remix`, `Metamask`
 - 🌐 Web: `React.js`, `Next.js`, `Svelte`, `TailwindCSS`
 - 🔗 Web3: `Ethers.js`, `Web3.js`, `IPFS`, `Thirdweb`
