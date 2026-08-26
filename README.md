@@ -1,52 +1,37 @@
-<!---
-Janhavi312003/Janhavi312003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi there 👋, I'm Janhavi</h1>
+## Hi there 👋, I'm Janhavi
 
-<p align="center">
-🌟 Blockchain Enthusiast | 💻 Frontend Developer | 🌱 Lifelong Learner  
-</p>
-
----
+🚀 Full Stack Developer | 🤖 Building AI/RAG Systems | 🌱 Blockchain & Web3
 
 ### 🚀 About Me
 
-- 👩‍💻 I'm passionate about **Blockchain technology** and building in **Web3**.
-- 🌱 Currently diving deep into **Dapps** and **smart contract development**.
-- 💬  I’m looking to work on blockchain technology 
-- 💡 Always curious to explore new ideas and technologies.
-- 📫 Reach me at: **janhavisonurkar00@gmail.com**
-
----
+* 👩‍💻 I build production-ready full-stack apps with **Python, FastAPI, React, and Next.js**.
+* 🤖 Most recently built **[Ragora](https://github.com/Janhavi312003/Ragora)**, a full-stack AI/RAG platform — FastAPI + pgvector backend, semantic search, LLM-grounded chat (Groq), Next.js frontend, containerized with Docker.
+* 🧱 Also skilled in **Solidity/Web3** — smart contracts, dApps, and on-chain integrations.
+* 💬 Looking to work on full-stack and AI-integrated web applications.
+* 📫 Reach me at: [janhavisonurkar00@gmail.com](mailto:janhavisonurkar00@gmail.com)
 
 ### 💼 Tech Stack
 
-- ⚙️ Languages: `Solidity`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `C++`
-- 🧱 Blockchain: `Ethereum`, `Hardhat`, `Remix`, `Metamask`,`Foundry`
-- 🌐 Web: `React.js`, `Next.js`, `Svelte`, `TailwindCSS`
-- 🔗 Web3: `Ethers.js`, `Web3.js`, `IPFS`, `Thirdweb`
-- 💾 Database: `MongoDB`, `Prisma`, `Sql`, `PostgressSql`
+* ⚙️ **Languages:** `Python`, `JavaScript`, `TypeScript`, `SQL`, `Solidity`, `C++`
+* 🧠 **AI / Data:** `RAG Pipelines`, `Vector Embeddings`, `pgvector`, `Sentence Transformers`, `LLM Integration (Groq)`
+* 🔧 **Backend:** `FastAPI`, `Node.js`, `NestJS`, `REST APIs`, `JWT Auth`
+* 🌐 **Frontend:** `React.js`, `Next.js`, `TailwindCSS`, `Shadcn/UI`
+* 💾 **Database:** `PostgreSQL`, `pgvector`, `Prisma`, `MongoDB`
+* 🐳 **Cloud / DevOps:** `Docker`, `Docker Compose`, `Git`, `GitHub`, `Vercel`
+* 🧱 **Blockchain / Web3:** `Solidity`, `Hardhat`, `Foundry`, `Ethers.js`, `Web3.js`, `MetaMask`, `IPFS`
 
----
 ### ✏️ Tools
-- 🎨 Figma
-- 📊 Jira
-- 💻 Git
----
+
+* 🎨 Figma
+* 📊 Jira
+* 💻 Git / GitHub
+* 📬 Postman
 
 ### 🌍 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-sonurkar-134a70288/) 
-- 🌐 [Portfolio](https://portfolio-tau-eight-23.vercel.app/) 
-
----
+* 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-sonurkar-134a70288/)
+* 🌐 [Portfolio](https://portfolio-tau-eight-23.vercel.app/)
 
 ### ⚡ Fun Fact
 
-> I believe Web3 isn't just tech—it's a **revolution** ✨  
-> Let's **build the decentralized future** together! 🚀
-
----
-
-⭐️ *If you like what I do, let's connect and build something amazing together!*
+My code has debugged more bugs than I've squashed mosquitoes this summer 🦟🐛
