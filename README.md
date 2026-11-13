@@ -138,6 +138,7 @@ A Web3 payroll application that enables organizations to manage employees and ex
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-sonurkar-134a70288/)
+- 𝕏 [X (Twitter)](https://x.com/JSonurkar)
 - 🌐 [Portfolio](https://portfolio-tau-eight-23.vercel.app/)
 - 💻 [GitHub](https://github.com/Janhavi312003)
 - 📧 [Email](mailto:janhavisonurkar00@gmail.com)
