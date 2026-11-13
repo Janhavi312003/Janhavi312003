@@ -1,37 +1,141 @@
-## Hi there 👋, I'm Janhavi
+# Hi, I'm Janhavi Sonurkar 👋
 
-🚀 Full Stack Developer | 🤖 Building AI/RAG Systems | 🌱 Blockchain & Web3
+### Full-Stack Developer | Backend | AI Applications | Web3
 
-### 🚀 About Me
+I build full-stack applications, backend systems, AI-powered tools, and blockchain-based products. I enjoy understanding how systems work behind the scenes and turning ideas into practical applications.
 
-* 👩‍💻 I build production-ready full-stack apps with **Python, FastAPI, React, and Next.js**.
-* 🤖 Most recently built **[Ragora](https://github.com/Janhavi312003/Ragora)**, a full-stack AI/RAG platform — FastAPI + pgvector backend, semantic search, LLM-grounded chat (Groq), Next.js frontend, containerized with Docker.
-* 🧱 Also skilled in **Solidity/Web3** — smart contracts, dApps, and on-chain integrations.
-* 💬 Looking to work on full-stack and AI-integrated web applications.
-* 📫 Reach me at: [janhavisonurkar00@gmail.com](mailto:janhavisonurkar00@gmail.com)
+- 🎓 M.Sc. in Blockchain Technology — MIT-WPU
+- 💻 Experience building full-stack and Web3 applications
+- 🤖 Exploring AI, RAG systems, and LLM integrations
+- 🔗 Interested in smart contracts, blockchain infrastructure, and decentralized applications
+- 🌱 Currently exploring x402, privacy-preserving payments, and backend architecture
+- 📍 India
 
-### 💼 Tech Stack
+---
 
-* ⚙️ **Languages:** `Python`, `JavaScript`, `TypeScript`, `SQL`, `Solidity`, `C++`
-* 🧠 **AI / Data:** `RAG Pipelines`, `Vector Embeddings`, `pgvector`, `Sentence Transformers`, `LLM Integration (Groq)`
-* 🔧 **Backend:** `FastAPI`, `Node.js`, `NestJS`, `REST APIs`, `JWT Auth`
-* 🌐 **Frontend:** `React.js`, `Next.js`, `TailwindCSS`, `Shadcn/UI`
-* 💾 **Database:** `PostgreSQL`, `pgvector`, `Prisma`, `MongoDB`
-* 🐳 **Cloud / DevOps:** `Docker`, `Docker Compose`, `Git`, `GitHub`, `Vercel`
-* 🧱 **Blockchain / Web3:** `Solidity`, `Hardhat`, `Foundry`, `Ethers.js`, `Web3.js`, `MetaMask`, `IPFS`
+## 🚀 Featured Projects
 
-### ✏️ Tools
+### 1. StealthPay
+**Privacy-Preserving Web3 Payments**
 
-* 🎨 Figma
-* 📊 Jira
-* 💻 Git / GitHub
-* 📬 Postman
+A collaborative blockchain project exploring private payment flows using stealth addresses and x402 payment integration.
 
-### 🌍 Let's Connect
+- Integrated x402 payment flows.
+- Worked on stealth payment functionality.
+- Explored privacy-preserving sender and receiver interactions.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-sonurkar-134a70288/)
-* 🌐 [Portfolio](https://portfolio-tau-eight-23.vercel.app/)
+`Solidity` `TypeScript` `Next.js` `x402` `Web3`
 
-### ⚡ Fun Fact
+### 2. [Ragora](https://github.com/Janhavi312003/Ragora)
+**AI-Powered Document Intelligence Platform**
 
-My code has debugged more bugs than I've squashed mosquitoes this summer 🦟🐛
+A document-based AI chat application that allows users to upload PDFs and ask questions using Retrieval-Augmented Generation (RAG).
+
+- PDF processing and text extraction
+- Semantic search using vector embeddings
+- Context-aware AI responses
+- PostgreSQL with pgvector
+
+`Next.js` `Python` `FastAPI` `PostgreSQL` `pgvector` `Docker` `Groq`
+
+### 3. [AgriChain](https://github.com/Janhavi312003/AgriChain)
+**Blockchain-Based Agricultural Marketplace**
+
+A decentralized marketplace connecting farmers and buyers through transparent on-chain listings and purchases.
+
+- Farmer registration and harvest listings
+- Smart-contract-based purchases
+- IPFS storage for images and metadata
+- AI-assisted produce analysis
+
+`Next.js` `Solidity` `Base` `Wagmi` `IPFS` `Gemini`
+
+### 4. [ChainPay](https://github.com/Janhavi312003/ChainPay)
+**On-Chain Payroll Management**
+
+A Web3 payroll application that enables organizations to manage employees and execute salary payments through smart contracts.
+
+- Employee management
+- On-chain salary payments
+- Payment status tracking
+- Smart contract access control
+
+`Solidity` `Foundry` `Next.js` `TypeScript` `OpenZeppelin`
+
+---
+
+## 💼 Experience
+
+**Frontend Developer Intern — TimeChain Labs**
+- Built reusable React and Tailwind CSS components.
+- Integrated REST APIs across multiple application workflows.
+- Worked with MetaMask and Neucron wallet authentication.
+- Collaborated with developers using Git and GitHub.
+
+**Blockchain Developer Intern — TimeChain Labs**
+- Worked on a decentralized news publishing platform.
+- Integrated Neucron Wallet SDK.
+- Implemented blockchain-based subscription payment workflows.
+- Worked with React, Node.js, and PostgreSQL.
+
+---
+
+## 🏆 Open Source & Community
+
+- Contributed to the official Rootstock Developer Portal.
+- [Rootstock Developer Portal — Merged PR #480](https://github.com/rsksmart/devportal/pull/480)
+- Participated in Web3 learning and community initiatives.
+- Devcon 8 Volunteer.
+- ETHGlobal Mumbai Hacker.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`JavaScript` `TypeScript` `Python` `Solidity` `SQL`
+
+**Frontend**
+
+`React.js` `Next.js` `Tailwind CSS` `Shadcn/UI`
+
+**Backend**
+
+`Node.js` `FastAPI` `REST APIs` `NestJS`
+
+**Databases**
+
+`PostgreSQL` `pgvector` `MongoDB` `Prisma`
+
+**AI & Data**
+
+`RAG` `Vector Embeddings` `LLM APIs` `Groq` `Gemini`
+
+**Blockchain & Web3**
+
+`Solidity` `Foundry` `Hardhat` `Ethers.js` `Wagmi` `Viem` `MetaMask` `IPFS`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Docker` `Postman` `Figma` `Vercel`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavi312003&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavi312003&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-sonurkar-134a70288/)
+- 🌐 [Portfolio](https://portfolio-tau-eight-23.vercel.app/)
+- 💻 [GitHub](https://github.com/Janhavi312003)
+- 📧 [Email](mailto:janhavisonurkar00@gmail.com)
+
+**Always learning, building, and exploring new technologies.** 🚀
