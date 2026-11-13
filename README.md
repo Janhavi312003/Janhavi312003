@@ -24,7 +24,8 @@ A collaborative blockchain project exploring private payment flows using stealth
 - Worked on stealth payment functionality.
 - Explored privacy-preserving sender and receiver interactions.
 
-`Solidity` `TypeScript` `Next.js` `x402` `Web3`
+`Solidity` `TypeScript` `Next.js`
+`Avalanche Fuji Testnet` `x402` `Web3`
 
 ### 2. [Ragora](https://github.com/Janhavi312003/Ragora)
 **AI-Powered Document Intelligence Platform**
@@ -114,7 +115,9 @@ A Web3 payroll application that enables organizations to manage employees and ex
 
 **Blockchain & Web3**
 
-`Solidity` `Foundry` `Hardhat` `Ethers.js` `Wagmi` `Viem` `MetaMask` `IPFS`
+`Solidity` `Foundry` `Hardhat` `Avalanche`
+`Avalanche Fuji Testnet` `Ethers.js` `Wagmi`
+`Viem` `MetaMask` `IPFS` `x402`
 
 **Tools & Platforms**
 
